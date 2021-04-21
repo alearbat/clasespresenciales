@@ -1,0 +1,40 @@
+.celeste {
+  height: 200px;
+  background-color: #28b9fc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  text-align: center;
+}
+
+.blanco {
+  height: 200px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+html {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+button {
+  background-color: rgb(255, 255, 6);
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 35px;
+}
